@@ -26,3 +26,5 @@ and Mongoose as the data manager; I built a scheema using Mongoose. <br/>
 As for the front-end; I tried to make a simple minimalistic elegantly designed site, 
 I used special tools like snackbar from Notistack to show a beautiful notification once
 a app request is made. It shows up green is code 200 is received and red if there's something wrong. 
+I used React for the content generating method and Tailwind.css to style the app. Tailwind allows 
+me to make it responsive more easily. 

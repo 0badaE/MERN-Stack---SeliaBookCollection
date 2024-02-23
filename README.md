@@ -1,6 +1,6 @@
-Site: https://selialibrary.netlify.app/
 (App may take a while to load, due to using the free tier 
 of my website hoster, do not mistake this as a development issue.) <br/>
+Site: https://selialibrary.netlify.app/
 
 <h2>Full-Stack MERN Library </h2>
 

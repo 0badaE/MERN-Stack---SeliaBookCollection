@@ -1,4 +1,4 @@
-(App may take a while to load, due to using the free tier 
+(App may take a minute to load, due to using the free tier 
 of my website hoster, do not mistake this as a development issue.) <br/>
 Site: https://selialibrary.netlify.app/
 
